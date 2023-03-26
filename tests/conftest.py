@@ -1,3 +1,3 @@
-"""Fixtures for pycas"""
+"""Fixtures for pycasreg"""
 
 # import pytest

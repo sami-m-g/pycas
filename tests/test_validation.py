@@ -3,7 +3,7 @@ import math
 
 import pytest
 
-from pycas.validation import validate_cas
+from pycasreg.validation import validate_cas
 
 
 def test_nan():

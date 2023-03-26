@@ -1,1 +1,1 @@
-"""Test suite for the pycas package."""
+"""Test suite for the pycasreg package."""

@@ -1,4 +1,4 @@
-"""pycas."""
+"""pycasreg."""
 import importlib.metadata
 from typing import Union
 
@@ -11,7 +11,7 @@ def _get_version_tuple() -> tuple:
             return version_str  # pragma: no cover
 
     return tuple(
-        as_integer(v) for v in importlib.metadata.version("pycas").strip().split(".")
+        as_integer(v) for v in importlib.metadata.version("pycasreg").strip().split(".")
     )
 
 

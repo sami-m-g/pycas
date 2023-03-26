@@ -12,9 +12,9 @@ Here is a list of important resources for contributors:
 - [Code of Conduct]
 
 [bsd license license]: https://opensource.org/licenses/BSD license
-[source code]: https://github.com/sami-m-g/pycas
-[documentation]: https://pycas.readthedocs.io/
-[issue tracker]: https://github.com/sami-m-g/pycas/issues
+[source code]: https://github.com/sami-m-g/pycasreg
+[documentation]: https://pycasreg.readthedocs.io/
+[issue tracker]: https://github.com/sami-m-g/pycasreg/issues
 
 ## How to report a bug
 
@@ -92,6 +92,6 @@ $ pip install pre-commit
 It is recommended to open an issue before starting work on anything.
 This will allow a chance to talk it over with the owners and validate your approach.
 
-[pull request]: https://github.com/sami-m-g/pycas/pulls
+[pull request]: https://github.com/sami-m-g/pycasreg/pulls
 
 [code of conduct]: CODE_OF_CONDUCT.md
