@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/pypi/l/pycas)][license]
 
 [![Read the documentation at https://pycas.readthedocs.io/](https://img.shields.io/readthedocs/pycas/latest.svg?label=Read%20the%20Docs)][read the docs]
-[![Tests](https://github.com/sami-m-g/pycas/workflows/Tests/badge.svg)][tests]
+[![Tests](https://github.com/sami-m-g/pycas/actions/workflows/python-test.yml/badge.svg)][tests]
 [![Codecov](https://codecov.io/gh/sami-m-g/pycas/branch/main/graph/badge.svg)][codecov]
 
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)][pre-commit]
@@ -14,7 +14,7 @@
 
 [pypi status]: https://pypi.org/project/pycas/
 [read the docs]: https://pycas.readthedocs.io/
-[tests]: https://github.com/sami-m-g/pycas/actions?workflow=Tests
+[tests]: https://github.com/sami-m-g/lxmlh/actions?workflow=Tests
 [codecov]: https://app.codecov.io/gh/sami-m-g/pycas
 [pre-commit]: https://github.com/pre-commit/pre-commit
 [black]: https://github.com/psf/black
